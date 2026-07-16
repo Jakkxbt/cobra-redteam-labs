@@ -46,6 +46,7 @@ no step-by-step. The full worked solution is still there, collapsed, as a safety
 | # | Lab | Bug class | Impact | Difficulty |
 |---|-----|-----------|--------|------------|
 | 08 | [jwt-auth-bypass](labs/08-jwt-auth-bypass) | JWT verification flaws | Privilege escalation / ATO | ⭐⭐⭐ |
+| 10 | [graphql](labs/10-graphql) | GraphQL introspection + broken resolver auth | Sensitive data exposure | ⭐⭐⭐ |
 
 *More labs added over time — check back.*
 
