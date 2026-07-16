@@ -47,6 +47,7 @@ no step-by-step. The full worked solution is still there, collapsed, as a safety
 |---|-----|-----------|--------|------------|
 | 08 | [jwt-auth-bypass](labs/08-jwt-auth-bypass) | JWT verification flaws | Privilege escalation / ATO | ⭐⭐⭐ |
 | 10 | [graphql](labs/10-graphql) | GraphQL introspection + broken resolver auth | Sensitive data exposure | ⭐⭐⭐ |
+| 11 | [race](labs/11-race) | Race condition (check-then-act) | Business-logic abuse / credit inflation | ⭐⭐⭐⭐ |
 
 *More labs added over time — check back.*
 
