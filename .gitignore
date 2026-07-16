@@ -1,0 +1,10 @@
+# Private solving guides — author's answer keys, NEVER publish these
+**/SOLUTION.md
+**/GUIDE.md
+guides/
+
+# Runtime artifacts from running the labs — never commit these
+labs/06-file-upload/vuln_uploads/
+labs/06-file-upload/safe_uploads/
+__pycache__/
+*.pyc
