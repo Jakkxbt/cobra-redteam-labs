@@ -41,11 +41,12 @@ Learn the bug, prove it yourself, then learn to kill it.
 ### Harder tier — you get the *what*, not the *how*
 
 Same matched-pair format, but the hints only tell you the bug class and where to point your thinking —
-no step-by-step. The full worked solution is still there, collapsed, as a safety net when you're stuck.
+no step-by-step and no published solution. Prove it yourself against the `--safe` version.
 
 | # | Lab | Bug class | Impact | Difficulty |
 |---|-----|-----------|--------|------------|
 | 08 | [jwt-auth-bypass](labs/08-jwt-auth-bypass) | JWT verification flaws | Privilege escalation / ATO | ⭐⭐⭐ |
+| 09 | [blind-sqli](labs/09-blind-sqli) | Blind (boolean) SQL injection | Full database extraction | ⭐⭐⭐⭐ |
 | 10 | [graphql](labs/10-graphql) | GraphQL introspection + broken resolver auth | Sensitive data exposure | ⭐⭐⭐ |
 | 11 | [race](labs/11-race) | Race condition (check-then-act) | Business-logic abuse / credit inflation | ⭐⭐⭐⭐ |
 
