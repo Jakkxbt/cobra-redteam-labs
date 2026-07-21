@@ -1,14 +1,5 @@
-# Private solving guides — author's answer keys, NEVER publish these
-**/SOLUTION.md
-**/GUIDE.md
-guides/
-
-# Private build/planning + local file-tree map — keep local, never publish
-FILE-TREE.md
-BUILD-NOTES.md
-
-# Runtime artifacts from running the labs — never commit these
-labs/06-file-upload/vuln_uploads/
-labs/06-file-upload/safe_uploads/
+# Python / runtime artifacts
 __pycache__/
 *.pyc
+labs/06-file-upload/vuln_uploads/
+labs/06-file-upload/safe_uploads/
